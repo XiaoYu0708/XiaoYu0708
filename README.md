@@ -7,12 +7,14 @@
 - 📒 分享 ... [📍](#分享)
 - 🎈 作業範本 ... [📍](#作業範本)
 ## 分享
->- [作業7](https://github.com/XiaoYu0708/HW7-Share)
->[📍TOP](#XiaoYu0708)
+>- [作業7](https://github.com/XiaoYu0708/HW7-Share)  
+
+[📍TOP](#XiaoYu0708)
 ## 作業範本
 > #### 視窗程式設計作業範本
 >- [下載範本](https://github.com/XiaoYu0708/XiaoYu0708/raw/main/5a9g0016exX.docx)
 > #### 嵌入式系統設計作業範本
->- [下載範本](https://github.com/XiaoYu0708/XiaoYu0708/raw/main/5a9g0016.docx)
->[📍TOP](#XiaoYu0708)
+>- [下載範本](https://github.com/XiaoYu0708/XiaoYu0708/raw/main/5a9g0016.docx) 
+ 
+[📍TOP](#XiaoYu0708)
 ###### update 2022/11/16 11：56
