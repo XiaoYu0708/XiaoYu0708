@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 🎈 作業範本 ... [📍](#作業範本)
 > ## 分享
->- [作業7](https://github.com/XiaoYu0708/Share)
+>- [作業7](https://github.com/XiaoYu0708/HW7-Share)
 > ## 作業範本
 > #### 視窗程式設計作業範本
 >- [下載範本](https://github.com/XiaoYu0708/XiaoYu0708/raw/main/5a9g0016exX.docx)
