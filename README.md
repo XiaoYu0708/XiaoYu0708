@@ -8,6 +8,7 @@
 - 🎈 作業範本 ... [📍](#作業範本)
 ## 分享
 >- [作業7](https://github.com/XiaoYu0708/HW7-Share)  
+>- [嵌入式程式設計](https://github.com/XiaoYu0708/Embedded)
 
 [📍TOP](#XiaoYu0708)
 ## 作業範本
