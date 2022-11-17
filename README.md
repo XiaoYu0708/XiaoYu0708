@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 📒 分享 ... [📍](#分享)
-- 🎈 作業範本 ... [📍](#作業範本)
+## 目錄
+>- [🎈分享 ... ](#分享)
+>- [ 📒作業範本 ... ](#作業範本)
 ## 分享
 >- [作業7](https://github.com/XiaoYu0708/HW7-Share)  
 >- [嵌入式程式設計](https://github.com/XiaoYu0708/Embedded)
