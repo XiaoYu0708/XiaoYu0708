@@ -1,7 +1,4 @@
 # XiaoYu0708
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoYu0708&hide=stars,issues)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYu0708)](https://github.com/XiaoYu0708)
 
 ## 目錄
 >- [🎈分享 ... ](#分享)
@@ -18,4 +15,4 @@
 >- [下載範本](https://github.com/XiaoYu0708/XiaoYu0708/raw/main/5a9g0016.docx) 
  
 [📍TOP](#目錄)
-- update 2022/11/23 09：51
+- update 2022/11/23 10：35
