@@ -1,7 +1,7 @@
 # XiaoYu0708
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoYu0708&hide=stars,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYu0708)](https://github.com/iambjlu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYu0708)](https://github.com/XiaoYu0708)
 ## 目錄
 >- [🎈分享 ... ](#分享)
 >- [ 📒作業範本 ... ](#作業範本)
