@@ -2,12 +2,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoYu0708&hide=stars,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYu0708)](https://github.com/XiaoYu0708)
+
 ## 目錄
 >- [🎈分享 ... ](#分享)
 >- [ 📒作業範本 ... ](#作業範本)
 ## 分享
->- [視窗程式設計](https://github.com/XiaoYu0708/Csharp-Public)
->- [嵌入式程式設計](https://github.com/XiaoYu0708/Embedded)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoYu0708&repo=Csharp-Public)](https://github.com/XiaoYu0708/Csharp-Public)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoYu0708&repo=Embedded)](https://github.com/XiaoYu0708/Embedded)
 
 [📍TOP](#目錄)
 ## 作業範本
