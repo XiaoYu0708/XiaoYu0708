@@ -8,7 +8,7 @@
 
 ## 🎈分享
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoYu0708&repo=Csharp-Public)](https://github.com/XiaoYu0708/Csharp-Public)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoYu0708&repo=Embedded)](https://github.com/XiaoYu0708/Embedded)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoYu0708&repo=Embedded-Public)](https://github.com/XiaoYu0708/Embedded-Public)
 
 [📍TOP](#目錄)
 
