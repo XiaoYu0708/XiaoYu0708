@@ -1,4 +1,9 @@
 # XiaoYu0708
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoyu0708&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu0708&layout=compact&theme=graywhite)
+
+
 <pre>update 2022/11/28 15：37</pre>
 
 ## 目錄
