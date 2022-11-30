@@ -1,8 +1,7 @@
 # XiaoYu0708
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoyu0708&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu0708&layout=compact&theme=graywhite)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoyu0708&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu0708&layout=compact&theme=transparent)
 
 <pre>update 2022/11/30 10：42</pre>
 
