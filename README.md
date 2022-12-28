@@ -1,7 +1,6 @@
 # ![MyIcon](https://avatars.githubusercontent.com/u/68182187?s=22&v=4) XiaoYu
 
 ![Xiaoyu0708's github stats](https://github-readme-stats.vercel.app/api?username=xiaoyu0708&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu0708&layout=compact&theme=transparent)
 
 <pre>update 2022/12/26 20：40</pre>
 
