@@ -2,7 +2,7 @@
 
 ![Xiaoyu0708's github stats](https://github-readme-stats.vercel.app/api?username=xiaoyu0708&theme=transparent)
 
-<pre>update 2022/12/29 19：44</pre>
+<pre>update 2022/12/29 19：50</pre>
 
 ## 📂目錄
 >- [🎈公開 ... ](#公開)
@@ -34,7 +34,7 @@
 
 - **HTTPS**：https://github.com/XiaoYu0708/Test.git
 
-### …or create a new repository on the command line
+**…or create a new repository on the command line**
 ``` echo "# Test" >> README.md
 git init
 git add README.md
@@ -43,8 +43,7 @@ git branch -M main
 git remote add origin https://github.com/XiaoYu0708/Test.git
 git push -u origin main
 ```
-
-### …or push an existing repository from the command line
+**…or push an existing repository from the command line**
 ```
 git remote add origin https://github.com/XiaoYu0708/Test.git
 git branch -M main
