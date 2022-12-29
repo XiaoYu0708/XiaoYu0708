@@ -2,7 +2,7 @@
 
 ![Xiaoyu0708's github stats](https://github-readme-stats.vercel.app/api?username=xiaoyu0708&theme=transparent)
 
-<pre>update 2022/12/29 19：50</pre>
+<pre>update 2022/12/29 20：06</pre>
 
 ## 📂目錄
 >- [🎈公開 ... ](#公開)
@@ -35,7 +35,7 @@
 - **HTTPS**：https://github.com/XiaoYu0708/Test.git
 
 **…or create a new repository on the command line**
-``` echo "# Test" >> README.md
+```
 git init
 git add README.md
 git commit -m "first commit"
