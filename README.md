@@ -28,3 +28,26 @@
 
 [📍TOP](#目錄)
 
+
+## Github 上傳指令範例，以Text.git為例：
+
+- **HTTPS**：https://github.com/XiaoYu0708/Test.git
+
+### …or create a new repository on the command line
+``` echo "# Test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/XiaoYu0708/Test.git
+git push -u origin main
+```
+
+### …or push an existing repository from the command line
+```
+git remote add origin https://github.com/XiaoYu0708/Test.git
+git branch -M main
+git push -u origin main
+```
+
+[📍TOP](#目錄)
