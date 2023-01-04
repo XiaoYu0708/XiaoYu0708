@@ -2,7 +2,7 @@
 
 ![Xiaoyu0708's github stats](https://github-readme-stats.vercel.app/api?username=xiaoyu0708&theme=transparent)
 
-<pre>update 2022/12/29 20：06</pre>
+<pre>update 2023/01/04 09：09</pre>
 
 ## 📂目錄
 >- [🎈公開 ... ](#公開)
@@ -30,7 +30,7 @@
 [📍TOP](#目錄)
 
 
-## 🍷Github 上傳指令範例，以Text.git為例：
+## 🍷Github 上傳指令範例，以Test.git為例：
 
 - **HTTPS**：https://github.com/XiaoYu0708/Test.git
 
