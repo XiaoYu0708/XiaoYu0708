@@ -8,7 +8,7 @@
 >- [🎈公開 ... ](#公開)
 >- [📒作業範本 ... ](#作業範本)
 >- [🛠工具 ... ](#工具)
->- [🍷Github上傳指令...](#github-上傳指令範例以textgit為例)
+>- [🍷Github上傳指令...](#github-上傳指令範例以testgit為例)
 
 ## 🎈公開
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoYu0708&repo=Csharp-Public)](https://github.com/XiaoYu0708/Csharp-Public)  
