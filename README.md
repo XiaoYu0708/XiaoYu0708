@@ -1,6 +1,6 @@
 # ![MyIcon](https://avatars.githubusercontent.com/u/68182187?s=22&v=4) XiaoYu
 
-<pre>update 2023/01/10 17：59</pre>
+<pre>update 2023/01/12 17：00</pre>
 
 ## 📂目錄
 >- [🎈公開 ... ](#公開)
@@ -9,8 +9,11 @@
 >- [🍷Github上傳指令...](#github-上傳指令範例以testgit為例)
 
 ## 🎈公開
-[Csharp-Public](https://github.com/XiaoYu0708/Csharp-Public)  
-[Embedded-Public](https://github.com/XiaoYu0708/Embedded-Public)
+> **視窗程式設計**
+>- [Csharp-Public](https://github.com/XiaoYu0708/Csharp-Public)
+>
+> **嵌入式程式設計**
+>- [Embedded-Public](https://github.com/XiaoYu0708/Embedded-Public)
 
 [📍TOP](#)
 
