@@ -1,6 +1,6 @@
 # ![MyIcon](https://avatars.githubusercontent.com/u/68182187?s=22&v=4) XiaoYu
 
-<pre>update 2023/03/01 13：36</pre>
+<pre>update 2023/03/07 11：59</pre>
 
 ## 📂目錄
 >- [🎈公開 ... ](#公開)
@@ -12,7 +12,7 @@
 
 ## 🎈公開
 > **Visual-Basic**
->- [Visual-Basic-1](https://github.com/XiaoYu0708/Visual-Basic-1)
+>- [Visual-Basic](https://github.com/XiaoYu0708/Visual-Basic/tree/main)
 
 [📍TOP](#)
  
