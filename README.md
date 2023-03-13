@@ -1,6 +1,6 @@
 # ![MyIcon](https://avatars.githubusercontent.com/u/68182187?s=22&v=4) XiaoYu
 
-<pre>update 2023/03/07 11：59</pre>
+<pre>update 2023/03/13 16：12</pre>
 
 ## 📂目錄
 >- [🎈公開 ... ](#公開)
@@ -8,7 +8,7 @@
 >- [🍷Github上傳指令...](#github-上傳指令範例以testgit為例)
 
 ## 作業範本
->- [下載](https://github.com/XiaoYu0708/XiaoYu0708/raw/main/5a9g00XX.docx)
+>- [下載](https://github.com/XiaoYu0708/XiaoYu0708/raw/main/%E4%BD%9C%E6%A5%AD%E7%AF%84%E6%9C%AC.docx)
 
 ## 🎈公開
 >- [**Visual-Basic**](https://github.com/XiaoYu0708/Visual-Basic/tree/main)
