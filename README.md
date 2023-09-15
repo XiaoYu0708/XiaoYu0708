@@ -1,13 +1,15 @@
 # ![MyIcon](https://avatars.githubusercontent.com/u/68182187?s=22&v=4) XiaoYu
 
-<pre>update 2023/05/28 03：01</pre>
+<pre>update 2023/09/15 14：50</pre>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYu0708)](https://github.com/XiaoYu0708)
 
 ## 📂目錄
 >- [🎈公開 ... ](#公開)
 >- [🛠工具 ... ](#工具)
 >- [🍷Github上傳指令...](#github-上傳指令範例以testgit為例)
 
-## 作業範本
+## 📖作業範本
 >- [下載](https://github.com/XiaoYu0708/XiaoYu0708/raw/main/%E4%BD%9C%E6%A5%AD%E7%AF%84%E6%9C%AC.docx)
 
 ## 🎈公開
