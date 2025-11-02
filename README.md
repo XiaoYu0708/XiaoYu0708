@@ -1,28 +1,8 @@
 # ![MyIcon](https://avatars.githubusercontent.com/u/68182187?s=22&v=4) XiaoYu
 
-<pre>Update 2023/09/15 14：53</pre>
+<pre>Update 2025/11/02 17：50</pre>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYu0708)](https://github.com/XiaoYu0708)
-
-## 📂目錄
->- [🎈公開 ... ](#公開)
->- [🛠工具 ... ](#工具)
->- [🍷Github上傳指令...](#github-上傳指令範例以testgit為例)
-
-## 📖作業範本
->- [下載](https://github.com/XiaoYu0708/XiaoYu0708/raw/main/%E4%BD%9C%E6%A5%AD%E7%AF%84%E6%9C%AC.docx)
-
-## 🎈公開
-- [ ] [**Visual-Basic**](https://github.com/XiaoYu0708/Visual-Basic/tree/main)
-- [ ] [**Csharp-WPF**](https://github.com/XiaoYu0708/Csharp-WPF)
-
-[📍TOP](#)
- 
-## 🛠工具
-- [ ] [**Adobe線上PDF合成工具**](https://www.adobe.com/tw/acrobat/online/merge-pdf.html)
-
-[📍TOP](#)
-
 
 ## 🍷Github 上傳指令範例，以Test.git為例：
 
